@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 工程工作流"
+  short_description: "按任务风险分级，让 Codex 自主执行并用验证证据完成工程交付"
+  default_prompt: "使用 $codex-engineering-workflow 处理当前工程任务，自动选择足够且不过度的工作强度。"
